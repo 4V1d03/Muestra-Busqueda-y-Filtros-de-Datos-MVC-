@@ -1,0 +1,24 @@
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\bin\Debug\net6.0-windows\Muestra, Busqueda y Filtro de Datos.exe
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\bin\Debug\net6.0-windows\Muestra, Busqueda y Filtro de Datos.deps.json
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\bin\Debug\net6.0-windows\Muestra, Busqueda y Filtro de Datos.runtimeconfig.json
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\bin\Debug\net6.0-windows\Muestra, Busqueda y Filtro de Datos.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\bin\Debug\net6.0-windows\Muestra, Busqueda y Filtro de Datos.pdb
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\obj\Debug\net6.0-windows\Muestra, Busqueda y Filtro de Datos.csproj.AssemblyReference.cache
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\obj\Debug\net6.0-windows\Muestra__Busqueda_y_Filtro_de_Datos.Vista.Cliente.resources
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\obj\Debug\net6.0-windows\Muestra, Busqueda y Filtro de Datos.csproj.GenerateResource.cache
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\obj\Debug\net6.0-windows\Muestra, Busqueda y Filtro de Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\obj\Debug\net6.0-windows\Muestra, Busqueda y Filtro de Datos.AssemblyInfoInputs.cache
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\obj\Debug\net6.0-windows\Muestra, Busqueda y Filtro de Datos.AssemblyInfo.cs
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\obj\Debug\net6.0-windows\Muestra, Busqueda y Filtro de Datos.csproj.CoreCompileInputs.cache
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\obj\Debug\net6.0-windows\Muestra, Busqueda y Filtro de Datos.csproj.CopyComplete
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\obj\Debug\net6.0-windows\Muestra, Busqueda y Filtro de Datos.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\obj\Debug\net6.0-windows\refint\Muestra, Busqueda y Filtro de Datos.dll
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\obj\Debug\net6.0-windows\Muestra, Busqueda y Filtro de Datos.pdb
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\obj\Debug\net6.0-windows\Muestra, Busqueda y Filtro de Datos.genruntimeconfig.cache
+C:\Users\aguil\OneDrive\Proyectos personales\C#\Muestra, Busqueda y Filtro de Datos\obj\Debug\net6.0-windows\ref\Muestra, Busqueda y Filtro de Datos.dll
